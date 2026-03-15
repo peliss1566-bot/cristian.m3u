@@ -283,15 +283,6 @@ http://38.49.128.38:8000/play/a0ng/index.m3u8
 #EXTINF:-1   group-title="TV1", tnt novelas
 http://38.49.128.38:8000/play/a0m2/index.m3u8
 
-#EXTM3U
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", :: SR. REGIO ::
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", http://paypal.me/SrRegio
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioGrupo
-http://notabasica.com/sr_regioooooo.php
 
 #EXTINF:-1   group-title="TV2",  A&E
 http://38.49.128.38:8000/play/a0bv/index.m3u8
@@ -552,17 +543,7 @@ http://38.49.128.38:8000/play/a0ng/index.m3u8
 #EXTINF:-1   group-title="TV2", tnt novelas
 http://38.49.128.38:8000/play/a0m2/index.m3u8
 
-#EXTM3U
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", :: SR. REGIO ::
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", http://paypal.me/SrRegio
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="https://www.facebook.com/images/fb_icon_325x325.png", @RegioPlay.Oficial
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioGrupo
-http://notabasica.com/sr_regioooooo.php
+
 
 #EXTINF:-1 tvg-shift="-6"  group-title="TV3", Baby First
 http://45.5.119.43:4000/play/a03i/index.m3u8
@@ -1185,17 +1166,6 @@ http://181.78.106.127:9000/play/ca089/index.m3u8
 #EXTINF:-1 group-title="-" group-title="TV4", VEA CANAL
 http://181.78.106.127:9000/play/ca090/index.m3u8
 
-#EXTM3U
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", :: SR. REGIO ::
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", http://paypal.me/SrRegio
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="https://www.facebook.com/images/fb_icon_325x325.png", @RegioPlay.Oficial
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioGrupo
-http://notabasica.com/sr_regioooooo.php
 
 #EXTINF:-1 tvg-shift="-6"  group-title="TV5", Baby First
 http://45.5.119.43:4000/play/a03i/index.m3u8
@@ -1441,17 +1411,6 @@ http://45.5.119.43:4000/play/a027/index.m3u8
 http://45.5.119.43:4000/play/a05i/index.m3u8
 
 
-#EXTM3U
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", :: SR. REGIO ::
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", http://paypal.me/SrRegio
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="https://www.facebook.com/images/fb_icon_325x325.png", @RegioPlay.Oficial
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioGrupo
-http://notabasica.com/sr_regioooooo.php
 
 #EXTINF:-1 group-title="Lista 5 Paraguay", A&EHD
 http://181.78.27.128:8000/play/a01v/index.m3u8
@@ -1621,17 +1580,7 @@ http://181.78.27.128:8000/play/a04q/index.m3u8
 http://181.78.27.128:8000/play/a04s/index.m3u8
 
 
-#EXTM3U
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", :: SR. REGIO ::
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", http://paypal.me/SrRegio
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="https://www.facebook.com/images/fb_icon_325x325.png", @RegioPlay.Oficial
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioGrupo
-http://notabasica.com/sr_regioooooo.php
+
 
 #EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Mexico", 11 - Repretel
 http://45.228.234.167:8000/play/a01v/index.m3u8
@@ -1992,15 +1941,7 @@ http://45.228.234.167:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Mexico", test ESPN HD
 http://45.228.234.167:8000/play/a0h3/index.m3u8
 
-#EXTM3U
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", :: SR. REGIO ::
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", http://paypal.me/SrRegio
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioGrupo
-http://notabasica.com/sr_regioooooo.php
+
 
 #EXTINF:-1 tvg-shift="-4"  group-title="TV8", 123 TV
 http://200.59.188.3:8000/play/a08r
@@ -2377,15 +2318,6 @@ http://200.59.188.3:8000/play/a028
 #EXTINF:-1 tvg-shift="-4"  group-title="TV8", Zona Latina
 http://200.59.188.3:8000/play/a05d
 
-#EXTM3U
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", :: SR. REGIO ::
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", http://paypal.me/SrRegio
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioGrupo
-http://notabasica.com/sr_regioooooo.php
 
 #EXTINF:-1 group-title="TV9", A&E
 http://45.4.85.214:58001/play/a02j
@@ -2553,16 +2485,6 @@ http://45.4.85.214:58001/play/a02q
 http://45.4.85.214:58001/play/a02h
 #EXTINF:-1 group-title="Lista 15 Honduras", ZooMoo
 http://45.4.85.214:58001/play/a006
-
-#EXTM3U
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", :: SR. REGIO ::
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", http://paypal.me/SrRegio
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioGrupo
-http://notabasica.com/sr_regioooooo.php
 
 #EXTINF:-1 group-title="TV10",  LINDA TV HD
 http://45.166.92.22:58001/play/a060/index.m3u8
