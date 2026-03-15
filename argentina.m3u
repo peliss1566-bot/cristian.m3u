@@ -1,14 +1,6 @@
-#EXTM3U
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", :: SR. REGIO ::
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", http://paypal.me/SrRegio
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="https://www.facebook.com/images/fb_icon_325x325.png", @RegioPlay.Oficial
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioGrupo
-http://notabasica.com/sr_regioooooo.php
+
+
+
 
 #EXTINF:-1 group-title="Otros Canales", AZ UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
