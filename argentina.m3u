@@ -750,6 +750,266 @@ http://45.5.119.43:4000/play/a05i/index.m3u8
 
 
 
+#EXTINF:-1   group-title="premium",  A&E
+http://38.49.128.38:8000/play/a0bv/index.m3u8
+#EXTINF:-1   group-title="premium",  A3 SERIES
+http://38.49.128.38:8000/play/a0b0/index.m3u8
+#EXTINF:-1   group-title="premium",  ARTS
+http://38.49.128.38:8000/play/a0bc/index.m3u8
+#EXTINF:-1   group-title="premium",  AXN
+http://38.49.128.38:8000/play/a08w/index.m3u8
+#EXTINF:-1   group-title="premium",  BABY TV
+http://38.49.128.38:8000/play/a0b9/index.m3u8
+#EXTINF:-1   group-title="premium",  BOOMERAN
+http://38.49.128.38:8000/play/a0c1/index.m3u8
+#EXTINF:-1   group-title="premium",  C
+http://38.49.128.38:8000/play/a0cq/index.m3u8
+#EXTINF:-1   group-title="premium",  DICOVERY CHANNEL
+http://38.49.128.38:8000/play/a0ep/index.m3u8
+#EXTINF:-1   group-title="premium",  DISCOVERY TURBO
+http://38.49.128.38:8000/play/a0c4/index.m3u8
+#EXTINF:-1   group-title="premium",  DISNEY JR
+http://38.49.128.38:8000/play/a0bz/index.m3u8
+#EXTINF:-1   group-title="premium",  ESPN
+http://38.49.128.38:8000/play/a091/index.m3u8
+#EXTINF:-1   group-title="premium",  ESPN 3
+http://38.49.128.38:8000/play/a0c3/index.m3u8
+#EXTINF:-1   group-title="premium",  EÂ¡
+http://38.49.128.38:8000/play/a0by/index.m3u8
+#EXTINF:-1   group-title="premium",  FORMULA NOTICIAS
+http://38.49.128.38:8000/play/a0be/index.m3u8
+#EXTINF:-1   group-title="premium",  FX
+http://38.49.128.38:8000/play/a08x/index.m3u8
+#EXTINF:-1   group-title="premium",  H&H
+http://38.49.128.38:8000/play/a0bw/index.m3u8
+#EXTINF:-1   group-title="premium",  HBO
+http://38.49.128.38:8000/play/a0c5/index.m3u8
+#EXTINF:-1   group-title="premium",  HBO +
+http://38.49.128.38:8000/play/a0cv/index.m3u8
+#EXTINF:-1   group-title="premium",  IMAGEN
+http://38.49.128.38:8000/play/a0d5/index.m3u8
+#EXTINF:-1   group-title="premium",  ISAT
+http://38.49.128.38:8000/play/a0b2/index.m3u8
+#EXTINF:-1   group-title="premium",  MC
+http://38.49.128.38:8000/play/a0co/index.m3u8
+#EXTINF:-1   group-title="premium",  MTV HITS
+http://38.49.128.38:8000/play/a0b4/index.m3u8
+#EXTINF:-1   group-title="premium",  NATGEO LA
+http://38.49.128.38:8000/play/a0cl/index.m3u8
+#EXTINF:-1   group-title="premium",  STUDIO UNIVERSAL
+http://38.49.128.38:8000/play/a0bh/index.m3u8
+#EXTINF:-1   group-title="premium",  TLR
+http://38.49.128.38:8000/play/a0em/index.m3u8
+#EXTINF:-1   group-title="premium",  TNT SERIES
+http://38.49.128.38:8000/play/a0da/index.m3u8
+#EXTINF:-1   group-title="premium",  VH1
+http://38.49.128.38:8000/play/a0b6/index.m3u8
+#EXTINF:-1   group-title="premium",  VIDEO ROLA
+http://38.49.128.38:8000/play/a0b5/index.m3u8
+#EXTINF:-1   group-title="premium",  history 2
+http://38.49.128.38:8000/play/a0dj/index.m3u8
+#EXTINF:-1   group-title="premium",  hola tv
+http://38.49.128.38:8000/play/a0db/index.m3u8
+#EXTINF:-1   group-title="premium",  milenio
+http://38.49.128.38:8000/play/a0dm/index.m3u8
+#EXTINF:-1   group-title="premium",  once
+http://38.49.128.38:8000/play/a0bq/index.m3u8
+#EXTINF:-1   group-title="premium",CANAL 14
+http://38.49.128.38:8000/play/a0ax/index.m3u8
+#EXTINF:-1   group-title="premium",CNN
+http://38.49.128.38:8000/play/a0bd/index.m3u8
+#EXTINF:-1   group-title="premium",JUSTICIA TV
+http://38.49.128.38:8000/play/a0bg/index.m3u8
+#EXTINF:-1   group-title="premium",NOTICIAS DEL CONGRESO
+http://38.49.128.38:8000/play/a0az/index.m3u8
+#EXTINF:-1   group-title="premium",TV UNAM
+http://38.49.128.38:8000/play/a0ay/index.m3u8
+#EXTINF:-1   group-title="premium",TVC
+http://38.49.128.38:8000/play/a0bf/index.m3u8
+#EXTINF:-1   group-title="premium",realities
+http://38.49.128.38:8000/play/a0nj/index.m3u8
+#EXTINF:-1   group-title="premium",teleseries
+http://38.49.128.38:8000/play/a0ni/index.m3u8
+#EXTINF:-1   group-title="premium", ADN 40 HD
+http://38.49.128.38:8000/play/a0ne/index.m3u8
+#EXTINF:-1   group-title="premium", AMC
+http://38.49.128.38:8000/play/a0k8/index.m3u8
+#EXTINF:-1   group-title="premium", ATLAS
+http://38.49.128.38:8000/play/a0os/index.m3u8
+#EXTINF:-1   group-title="premium", AYM
+http://38.49.128.38:8000/play/a0km/index.m3u8
+#EXTINF:-1   group-title="premium", AYM SPORT HD
+http://38.49.128.38:8000/play/a0mk/index.m3u8
+#EXTINF:-1   group-title="premium", AZTECA 7
+http://38.49.128.38:8000/play/a0fm/index.m3u8
+#EXTINF:-1   group-title="premium", AZTECA 7 HD
+http://38.49.128.38:8000/play/a0la/index.m3u8
+#EXTINF:-1   group-title="premium", AZTECA INTER HD
+http://38.49.128.38:8000/play/a0n7/index.m3u8
+#EXTINF:-1   group-title="premium", AZTECA UNO
+http://38.49.128.38:8000/play/a0cc/index.m3u8
+#EXTINF:-1   group-title="premium", BABY FIRST
+http://38.49.128.38:8000/play/a0kb/index.m3u8
+#EXTINF:-1   group-title="premium", BITME
+http://38.49.128.38:8000/play/a0np/index.m3u8
+#EXTINF:-1   group-title="premium", CANAL 22
+http://38.49.128.38:8000/play/a0d7/index.m3u8
+#EXTINF:-1   group-title="premium", CANAL 5
+http://38.49.128.38:8000/play/a0fl/index.m3u8
+#EXTINF:-1   group-title="premium", CANAL 5 HD
+http://38.49.128.38:8000/play/a0n6/index.m3u8
+#EXTINF:-1   group-title="premium", CANAL INFANTIL SD
+http://38.49.128.38:8000/play/a0ot/index.m3u8
+#EXTINF:-1   group-title="premium", CARTOON NETWORK
+http://38.49.128.38:8000/play/a0c0/index.m3u8
+#EXTINF:-1   group-title="premium", CINE LATINO
+http://38.49.128.38:8000/play/a0lq/index.m3u8
+#EXTINF:-1   group-title="premium", CINEMAX
+http://38.49.128.38:8000/play/a093/index.m3u8
+#EXTINF:-1   group-title="premium", CLARO SPORT
+http://38.49.128.38:8000/play/a0cm/index.m3u8
+#EXTINF:-1   group-title="premium", CLICK HD
+http://38.49.128.38:8000/play/a0mh/index.m3u8
+#EXTINF:-1   group-title="premium", CNN
+http://38.49.128.38:8000/play/a0dl/index.m3u8
+#EXTINF:-1   group-title="premium", COMEDY CENTRAL
+http://38.49.128.38:8000/play/a0b3/index.m3u8
+#EXTINF:-1   group-title="premium", Canal del Congreso 45.1
+http://38.49.128.38:8000/play/a0nt/index.m3u8
+#EXTINF:-1   group-title="premium", Caracola TV
+http://38.49.128.38:8000/play/a0nd/index.m3u8
+#EXTINF:-1   group-title="premium", Cartonito
+http://38.49.128.38:8000/play/a0kc/index.m3u8
+#EXTINF:-1   group-title="premium", D pelicula
+http://38.49.128.38:8000/play/a0nn/index.m3u8
+#EXTINF:-1   group-title="premium", DISCOVERY ID
+http://38.49.128.38:8000/play/a0ch/index.m3u8
+#EXTINF:-1   group-title="premium", DISTRITO COMEDIA
+http://38.49.128.38:8000/play/a0ou/index.m3u8
+#EXTINF:-1   group-title="premium", DreamWorks TV Latin America
+http://38.49.128.38:8000/play/a0no/index.m3u8
+#EXTINF:-1   group-title="premium", EDGE
+http://38.49.128.38:8000/play/a0nh/index.m3u8
+#EXTINF:-1   group-title="premium", EL 6
+http://38.49.128.38:8000/play/a0bp/index.m3u8
+#EXTINF:-1   group-title="premium", ESPN 2
+http://38.49.128.38:8000/play/a092/index.m3u8
+#EXTINF:-1   group-title="premium", ESTRELLAS
+http://38.49.128.38:8000/play/a0d4/index.m3u8
+#EXTINF:-1   group-title="premium", ESTRELLAS HD
+http://38.49.128.38:8000/play/a0le/index.m3u8
+#EXTINF:-1   group-title="premium", EXA TV
+http://38.49.128.38:8000/play/a0lr/index.m3u8
+#EXTINF:-1   group-title="premium", FAST AND FUN BOX
+http://38.49.128.38:8000/play/a0ks/index.m3u8
+#EXTINF:-1   group-title="premium", FAST FUN HD
+http://38.49.128.38:8000/play/a0mi/index.m3u8
+#EXTINF:-1   group-title="premium", FIGTH BOX
+http://38.49.128.38:8000/play/a0kr/index.m3u8
+#EXTINF:-1   group-title="premium", FILM  &  ARTS
+http://38.49.128.38:8000/play/a0k9/index.m3u8
+#EXTINF:-1   group-title="premium", FOX SPORTS 2
+http://38.49.128.38:8000/play/a0oz/index.m3u8
+#EXTINF:-1   group-title="premium", FOX sport 3
+http://38.49.128.38:8000/play/a0ox/index.m3u8
+#EXTINF:-1   group-title="premium", GAME TOON
+http://38.49.128.38:8000/play/a0kv/index.m3u8
+#EXTINF:-1   group-title="premium", GINX
+http://38.49.128.38:8000/play/a0kx/index.m3u8
+#EXTINF:-1   group-title="premium", GOLF CHANNEL
+http://38.49.128.38:8000/play/a0kz/index.m3u8
+#EXTINF:-1   group-title="premium", HBO 2
+http://38.49.128.38:8000/play/a0ct/index.m3u8
+#EXTINF:-1   group-title="premium", HBO FAMILY
+http://38.49.128.38:8000/play/a0cu/index.m3u8
+#EXTINF:-1   group-title="premium", HBO MUNDI
+http://38.49.128.38:8000/play/a0jj/index.m3u8
+#EXTINF:-1   group-title="premium", HBO SIGNATURE
+http://38.49.128.38:8000/play/a0ji/index.m3u8
+#EXTINF:-1   group-title="premium", HBO XTREME
+http://38.49.128.38:8000/play/a096/index.m3u8
+#EXTINF:-1   group-title="premium", HTV
+http://38.49.128.38:8000/play/a0b7/index.m3u8
+#EXTINF:-1   group-title="premium", Justicia TV (Mexico)
+http://38.49.128.38:8000/play/a0ns/index.m3u8
+#EXTINF:-1   group-title="premium", LAMEJOR TV
+http://38.49.128.38:8000/play/a0ls/index.m3u8
+#EXTINF:-1   group-title="premium", LIFE TIME
+http://38.49.128.38:8000/play/a0ci/index.m3u8
+#EXTINF:-1   group-title="premium", MASCHIC
+http://38.49.128.38:8000/play/a0ka/index.m3u8
+#EXTINF:-1   group-title="premium", MTV 00
+http://38.49.128.38:8000/play/a0kh/index.m3u8
+#EXTINF:-1   group-title="premium", MULTI PREMIER
+http://38.49.128.38:8000/play/a0cp/index.m3u8
+#EXTINF:-1   group-title="premium", MULTICANAL
+http://38.49.128.38:8000/play/a0lo/index.m3u8
+#EXTINF:-1   group-title="premium", MULTIPREMIER
+http://38.49.128.38:8000/play/a0lp/index.m3u8
+#EXTINF:-1   group-title="premium", NBA
+http://38.49.128.38:8000/play/a0kj/index.m3u8
+#EXTINF:-1   group-title="premium", NFL
+http://38.49.128.38:8000/play/a0kk/index.m3u8
+#EXTINF:-1   group-title="premium", NICK JR
+http://38.49.128.38:8000/play/a0ck/index.m3u8
+#EXTINF:-1   group-title="premium", NICKMUSIC
+http://38.49.128.38:8000/play/a0lt/index.m3u8
+#EXTINF:-1   group-title="premium", OUTDOOR
+http://38.49.128.38:8000/play/a0kt/index.m3u8
+#EXTINF:-1   group-title="premium", Once niÃ±as y niÃ±os
+http://38.49.128.38:8000/play/a0nr/index.m3u8
+#EXTINF:-1   group-title="premium", PARAMOUNT
+http://38.49.128.38:8000/play/a0cs/index.m3u8
+#EXTINF:-1   group-title="premium", PX SPORTS
+http://38.49.128.38:8000/play/a0ku/index.m3u8
+#EXTINF:-1   group-title="premium", RT
+http://38.49.128.38:8000/play/a0nk/index.m3u8
+#EXTINF:-1   group-title="premium", SPACE
+http://38.49.128.38:8000/play/a0cg/index.m3u8
+#EXTINF:-1   group-title="premium", SYFY
+http://38.49.128.38:8000/play/a0b1/index.m3u8
+#EXTINF:-1   group-title="premium", TELEMUNDO INTER HD
+http://38.49.128.38:8000/play/a0mg/index.m3u8
+#EXTINF:-1   group-title="premium", TLC
+http://38.49.128.38:8000/play/a0bx/index.m3u8
+#EXTINF:-1   group-title="premium", TLN Telenovelas. SD
+http://38.49.128.38:8000/play/a0oy/index.m3u8
+#EXTINF:-1   group-title="premium", TRACE
+http://38.49.128.38:8000/play/a0ky/index.m3u8
+#EXTINF:-1   group-title="premium", TVC DEPORTES
+http://38.49.128.38:8000/play/a0mj/index.m3u8
+#EXTINF:-1   group-title="premium", TVCD
+http://38.49.128.38:8000/play/a0kl/index.m3u8
+#EXTINF:-1   group-title="premium", TeleYucatan
+http://38.49.128.38:8000/play/a0na/index.m3u8
+#EXTINF:-1   group-title="premium", TyC SPORTS
+http://38.49.128.38:8000/play/a0kw/index.m3u8
+#EXTINF:-1   group-title="premium", UNICABLE
+http://38.49.128.38:8000/play/a0ov/index.m3u8
+#EXTINF:-1   group-title="premium", UNIVERSAL
+http://38.49.128.38:8000/play/a0bt/index.m3u8
+#EXTINF:-1   group-title="premium", WARNER
+http://38.49.128.38:8000/play/a0cf/index.m3u8
+#EXTINF:-1   group-title="premium", canal 22.2
+http://38.49.128.38:8000/play/a0nu/index.m3u8
+#EXTINF:-1   group-title="premium", dw espa
+http://38.49.128.38:8000/play/a0nl/index.m3u8
+#EXTINF:-1   group-title="premium", el9nueve SD
+http://38.49.128.38:8000/play/a0ow/index.m3u8
+#EXTINF:-1   group-title="premium", espn extra
+http://38.49.128.38:8000/play/a0kf/index.m3u8
+#EXTINF:-1   group-title="premium", fox channel
+http://38.49.128.38:8000/play/a08v/index.m3u8
+#EXTINF:-1   group-title="premium", france 24
+http://38.49.128.38:8000/play/a0nm/index.m3u8
+#EXTINF:-1   group-title="premium", letra a
+http://38.49.128.38:8000/play/a0bu/index.m3u8
+#EXTINF:-1   group-title="premium", teleplay
+http://38.49.128.38:8000/play/a0ng/index.m3u8
+#EXTINF:-1   group-title="premium", tnt novelas
+http://38.49.128.38:8000/play/a0m2/index.m3u8
+
+
 
 
 
