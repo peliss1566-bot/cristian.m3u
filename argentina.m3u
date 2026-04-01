@@ -1169,6 +1169,27 @@ http://200.59.188.3:8000/play/a05a
 
 
 
+#EXTINF:-1 tvg-shift="-4"  group-title="variado", Universal Cinema SD
+http://200.59.188.3:8000/play/a06u
+
+
+
+
+#EXTINF:-1 tvg-shift="-4"  group-title="variado", Universal Comedy SD
+http://200.59.188.3:8000/play/a06v
+
+
+
+#EXTINF:-1 tvg-shift="-4"  group-title="variado", Universal Premiere SD
+http://200.59.188.3:8000/play/a06t
+
+
+
+
+#EXTINF:-1 tvg-shift="-4"  group-title="variado", Warner
+http://200.59.188.3:8000/play/a070
+
+
 
 
 
