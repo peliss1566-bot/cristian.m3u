@@ -1119,6 +1119,11 @@ https://archive.org/download/hola15/hola.mp4
 
 
 
+#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWE2N2RmYmYtYzA1Ny00ZDZhLTk2NTMtNmMyNDdiNjQ2ZWNhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",soy tu aventura
+https://archive.org/download/aventura15/AVENTURA.mp4
+
+
+
 
 #EXTINF:-1 tvg-shift="-4"  group-title="variado", Nickelodeon
 http://200.59.188.3:8000/play/a056
