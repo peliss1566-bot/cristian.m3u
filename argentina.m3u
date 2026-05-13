@@ -1135,6 +1135,11 @@ https://archive.org/download/el-palacio/el%20palacio.mp4
 
 
 
+#EXTINF:0 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/cudfWiiFDxj8rq1Myolzv6yY3ah.jpg",Super Mario Bros(1993)
+https://archive.org/download/super1515/super.mp4
+
+
+
 
 #EXTINF:-1 tvg-shift="-4"  group-title="variado", Nickelodeon
 http://200.59.188.3:8000/play/a056
@@ -1453,15 +1458,36 @@ https://archive.org/download/El-Chavo-Del-8-1971/024%20El%20Tio%20Jacinto.mp4
 
 
 
+#EXTINF:2 group-title="el chavo del 8" tvg-logo="",El Chavo y El Chapulín Colorado
+https://archive.org/download/el-chavo-y-el-chapulin-colorado-15-02-2025-1080p/El%20Chavo%20y%20El%20Chapulín%20Colorado%20%2815-02-2025%29%20%5B1080p%5D.mp4
+
+
+
+
+#EXTINF:2 group-title="el chavo del 8" tvg-logo="",El Chapulín Colorado
+https://archive.org/download/el-chapulin-colorado-todo-queda-en-familia-1976/El%20Chapulín%20Colorado%20Todo%20queda%20en%20familia%201976.mp4
+
+
+
+
+
+#EXTINF:2 group-title="el chavo del 8" tvg-logo="",Los Sonámbulos
+https://archive.org/download/el-chavo-del-8-1977-temporada-1977-25-los-sonambulos/El%20Chavo%20Del%208%20-%201977%20-%20Temporada%201977%20-%2025%20-%20Los%20Sonambulos%20.mp4
 
 
 
 
 
 
+#EXTINF:2 group-title="el chavo del 8" tvg-logo="",El Chapulín Colorado 2
+https://archive.org/download/el-chavo-y-el-chapulin-colorado-15-12-2024-1080p/El%20Chavo%20y%20El%20Chapulín%20Colorado%20%2815-12-2024%29%20%5B1080p%5D.mp4
 
 
 
+
+
+#EXTINF:2 group-title="el chavo del 8" tvg-logo="",El Chapulín Colorado 3
+https://archive.org/download/el-chavo-y-el-chapulin-colorado-26-01-2025-1080p/El%20Chavo%20y%20El%20Chapulín%20Colorado%20%2826-01-2025%29%20%5B1080p%5D.mp4
 
 
 
