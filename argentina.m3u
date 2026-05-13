@@ -1016,30 +1016,22 @@ http://38.49.128.38:8000/play/a0m2/index.m3u8
 
 
 
-#EXTINF:0 group-title="peliculas" tvg-logo="https://sm.ign.com/ign_es/movie/l/los-nuevos/los-nuevos-mutantes_rb66.jpg", Los Nuevos Mutantes 
-http://ipeteve.com/regioflix171121/th3.n3w.mut4nts.2020.brrip.720p.latino.mp4
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/10/soul_7.jpg?resize=743%2C1100&ssl=1", SOUL 
-http://ipeteve.com/regioflix171121/Soul.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:0 group-title="peliculas" tvg-logo="https://gnula.nu/wp-content/uploads/2020/12/Toys_of-_terror_poster_usa.jpg", Toys Of Terror 
-http://ipeteve.com/regioflix171121/Toys.of.terror.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/11/wonder_woman_84.jpg?resize=800%2C1186&ssl=1", Wonder Woman 1984 (2020) 
-http://ipeteve.com/regioflix171121/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i0.wp.com/www.movieplusgt.com/wp-content/uploads/2020/07/Poster-el-practicante.jpg?resize=768%2C1138", El Practicante 
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1690&authkey=AMwmBE3n0gDprHI
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/564x/ca/89/48/ca89485fd6d37bf689e10d6e6b4e58ea.jpg", Ajuste de Cuentas 
-https://onedrive.live.com/download.aspx?cid=E44DF942B91FC749&resid=E44DF942B91FC749%212797&authkey=AAEvvsEa01f8Jh0
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/01/trolls-2.jpg?resize=510%2C755&ssl=1", Trolls 2 
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1680&authkey=AJdrIV92ZSEaPLY
-#EXTINF:0 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/17/17/00/0735463.jpg", El Hoyo 
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1631&authkey=AAjm_Ggwl4dUbTI
-#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81JSykMB7DL._UR1200,1600_RI_.jpg", Cindy La Regia 
-https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3109&authkey=AOy_jIDek2FFBdQ
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2019/09/Parasitos_POSTER.jpg?resize=800%2C1132&ssl=1", Parasitos 
-https://onedrive.live.com/download.aspx?cid=62FE6667D61E2E06&resid=62FE6667D61E2E06!3118&authkey=ANohO-EiyJ9nOcM
-#EXTINF:0 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/05/10/50/0307472.jpg", Verdad o Reto 
-https://onedrive.live.com/download.aspx?cid=61BF9704CA96F884&resid=61BF9704CA96F884!1358&authkey=ANdX5tup-vBNhXM&ithint=video,mp4
-#EXTINF:0 group-title="peliculas" tvg-logo="https://miro.medium.com/max/462/1*x4Whh5zcot0LB0JdZOEXnA.jpeg", El Dilema de las Redes Sociales 
-http://vod.tuxchannel.tv/peliculas/720/the%20social%20dilemma%202020.mkv
+
+
+
+
+#EXTINF:0 group-title="peliculas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMQI1s6cfMgC6sFufGYBKqzf1YBdrqpvIBUw&s",Hell Fest(2018) 
+https://onedrive.live.com/download/hell-fest-2018_202409/Hell%20fest%20%282018%29.mp4
+
+
+#EXTINF:0 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/6iiwNhAo1ZlA96nRBasADQKJ5W2.jpg",La Reencarnación Del Demonio
+https://onedrive.live.com/download/la-reencarnacion-del-demonio/La%20reencarnación%20del%20demoni
+
+
+#EXTINF:0 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/4n7HJ322ARRWytwxLKEZi0mIrYE.jpg",El Exorcista Del Papa 
+https://onedrive.live.com/download/el-exorcista-del-papa-2023_202409/El%20Exorcista%20del%20Papa%202023.mp4
+
+
 #EXTINF:0 group-title="peliculas" tvg-logo="https://cinepremiere.com.mx/imgsHistorico/u7/El_Infierno_sin_cens_1.jpg", El Infierno 
 https://archive.org/download/ein-srregio/EInSRREGIO.mkv
 #EXTINF:0 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/regreso-al-futuro-poster-30x46cm-back-to-the-future-po095-D_NQ_NP_935111-MLM20493561423_112015-F.jpg", Volver al Futuro
@@ -1051,8 +1043,8 @@ https://archive.org/download/volver33/volver%203.mp4
 #EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/17/02/08/13/46/111920.jpg", Your Name 
 https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
 #EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_.jpg", Jhonny English 3.0 
-#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0Nzg2Mzg2OV5BMl5BanBnXkFtZTgwNjE1NDM4NTM@._V1_.jpg", La Bruja en la Ventana SUBTITULADO 
-https://archive.org/download/70452SRREGIO/70452SRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/2rP8vjVp5nx4c9TxVW14jWlffW.jpg",Los Tres Chiflados  
+https://archive.org/download/los-tres-chiflados-2012_202410/Los%20tres%20chiflados%20%282012%29.mp4
 #EXTINF:0 group-title="peliculas" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/e/ee/Eso_%281990%29_Car%C3%A1tula.jpg/revision/latest?cb=20171020012317&path-prefix=es", Eso (It) 1990 
 https://archive.org/download/eso-it-1990/Eso%20it%20%281990%29.mp4
 #EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MjAwMDkxNV5BMl5BanBnXkFtZTgwMTA4ODIxNjM@._V1_.jpg", Next Gen 
@@ -1062,23 +1054,23 @@ https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
 https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
 #EXTINF:0 group-title="peliculas" tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg", Cuando nos Conocimos  
 https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/180520re/la-forma-del-agua/135589642-3-esl-ES/La-forma-del-agua.jpg", La Forma del Agua SUBTITULADO 
-https://archive.org/download/ThSRREGIO/ThSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/4oBKwrKnMr2OI0GRAKfKjxJONdP.jpg",Jurassic World 2 El Reino Caído
+https://archive.org/download/jurassic-world-2-el-reino-caido-2018/Jurassic%20World%202%20El%20Reino%20Caído%202018.mp4
 #EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg", Nosotros Los Nobles 
 https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
-#EXTINF:0 group-title="peliculas" tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg", The Cloverfield Paradox   
+#EXTINF:0 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/vJi2ExTcWdJR3150VPKqqtdGxsT.jpg", The Cloverfield Paradox   
 https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
-#EXTINF:0 group-title="peliculas" tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg", Terminus  
+#EXTINF:0 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/xMKnpXZONyVGEyiST5CxOx9FI7l.jpg", Terminus  
 https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gh9OaWVcL.jpg", Deadpool   
-https://archive.org/download/DeSRREGIO/DeSRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="https://i1.wp.com/www.proximosestrenos.com.ar/wp-content/uploads/2015/04/poster-intensamente.jpg", Intensamente  
-https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://mx.web.img2.acsta.net/pictures/20/08/25/21/46/3395974.jpg",Con La Frente En Alto  
+https://archive.org/download/con-la-frente-en-alto/Con%20la%20frente%20en%20alto.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc4NzE4MjQ4M15BMl5BanBnXkFtZTgwMTgzNjE5NTM@._V1_.jpg",el paquete 
+https://archive.org/download/el-paquete-2018/El%20paquete%20%282018%29.mp4
 #EXTINF:0 group-title="peliculas" tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg", JIGSAW VIII 
 https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
 #EXTINF:0 group-title="peliculas" tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg", Redada Asesina 
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
-#EXTINF:0 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO   
+#EXTINF:0 group-title="peliculas" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH8HH7VzSWTTCrykCbSvb6Q-a73aGbIF6AHA&s", SAW VIII SUBTITULADO   
 https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 
 
@@ -1086,18 +1078,18 @@ https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 
 
 
-#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA0NDQxOTc3NF5BMl5BanBnXkFtZTcwMjk2NzQzMQ@@._V1_.jpg",El despertar del diablo 2 (2007)
+#EXTINF:0 group-title="peliculas" tvg-logo="https://media.themoviedb.org/t/p/w500/dgG1KpDjim36FUWT7RZuiU8aAlN.jpg",El despertar del diablo 2 (2007)
 https://archive.org/download/el-despertar-del-diablo-2-2007/El%20despertar%20del%20diablo%202%20%282007%29.mp4
-#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzA3ZTQ3ZTAtZGIyYi00ZDI5LTk2ZTUtYjI5YjQzNzM3Y2YzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",La novia de Chucky
+#EXTINF:0 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/pwDuEywhtL5EinC2XV9P8EBafn1.jpg",La novia de Chucky
 https://archive.org/download/la-novia-de-chucky_202409/La%20Novia%20de%20Chucky.mp4
 #EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU2MDY3MzAzMl5BMl5BanBnXkFtZTcwMTg0NjM5NA@@._V1_.jpg",Rio (2011)
 https://archive.org/download/rio_20240926/Rio.mp4
 
 #EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQwNzE3NzY2OV5BMl5BanBnXkFtZTYwODc0NTk2._V1_.jpg",Camino hacia el terror (2003)
 https://archive.org/download/camino-hacia-el-terror-2003_202409/Camino%20hacia%20el%20terror%202003.mp4
-#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg1NzY2OTczMF5BMl5BanBnXkFtZTcwNTU0NjIzMQ@@._V1_.jpg",Camino hacia el terror 2 (2007)
+#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmVjZDk4NmUtMTMwYS00YmRiLWFiNWQtMzIxNjFjZWQ5Njc5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Camino hacia el terror 2 (2007)
 https://archive.org/download/camino-hacia-el-terror-2-final-mortal-2007_202409/Camino%20Hacia%20el%20Terror%202%20Final%20mortal%202007.mp4
-#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ5MTY4NzEwOF5BMl5BanBnXkFtZTYwNTc2NTc3._V1_.jpg",Todopoderoso
+#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2IyOTY3MTYtMmZiZS00MmU0LWFlZjctYTM4ZDdkNmUxNjA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Todopoderoso
 https://archive.org/download/todopoderoso_202409/Todopoderoso.mp4
 #EXTINF:0 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/uP1QMihH1VplENcjDZ2trlLOX74.jpg",Rio 2 (2014)
 https://archive.org/download/rio-2-2014_202409/Río%202%20%282014%29.mp4
@@ -1469,8 +1461,41 @@ https://archive.org/download/el-chavo-y-el-chapulin-colorado-17-11-2024-1080p/El
 
 
 
-#EXTINF:2 group-title="el chavo del 8" tvg-logo="",el chavo y chapulin 2
+#EXTINF:2 group-title="el chavo del 8" tvg-logo="",el chavo y chapulin 3
 https://archive.org/download/el-chavo-y-el-chapulin-colorado-08-12-2024-1080p/El%20Chavo%20y%20El%20Chapulín%20Colorado%20%2808-12-2024%29%20%5B1080p%5D.mp4
+
+
+
+
+#EXTINF:2 group-title="el chavo del 8" tvg-logo="",el chavo y chapulin 4
+https://archive.org/download/el-chavo-y-el-chapulin-colorado-19-01-2025-1080p/El%20Chavo%20y%20El%20Chapulín%20Colorado%20%2819-01-2025%29%20%5B1080p%5D.mp4
+
+
+
+
+#EXTINF:2 group-title="el chavo del 8" tvg-logo="",el chavo y chapulin 5
+https://archive.org/download/el-chavo-y-el-chapulin-colorado-25-01-2025-1080p/El%20Chavo%20y%20El%20Chapulín%20Colorado%20%2825-01-2025%29%20%5B1080p%5D.mp4
+
+
+
+
+#EXTINF:2 group-title="el chavo del 8" tvg-logo="",el chavo y chapulin 6
+https://archive.org/download/el-chavo-y-el-chapulin-colorado-08-02-2025-1080p/El%20Chavo%20y%20El%20Chapulín%20Colorado%20%2808-02-2025%29%20%5B1080p%5D.mp4
+
+
+
+#EXTINF:2 group-title="el chavo del 8" tvg-logo="",el chavo y chapulin 7
+https://archive.org/download/el-chavo-y-el-chapulin-colorado-05-01-2025-1080p/El%20Chavo%20y%20El%20Chapulín%20Colorado%20%2805-01-2025%29%20%5B1080p%5D.mp4
+
+
+
+#EXTINF:2 group-title="el chavo del 8" tvg-logo="",el chavo y chapulin 8
+https://archive.org/download/el-chavo-y-el-chapulin-colorado-22-12-24-1080p/El%20Chavo%20y%20El%20Chapulín%20Colorado%20%2822-12-2024%29%20%5B1080p%5D.mp4
+
+
+
+
+
 
 
 
@@ -1486,7 +1511,6 @@ https://archive.org/download/los-simuladores-2002/T1-01.%20Tarjeta%20de%20Navida
 
 #EXTINF:3 group-title="los simuladores"",T1-02. Diagnóstico rectoscópico 
 https://archive.org/download/los-simuladores-2002/T1-02.%20Diagnóstico%20rectoscópico%20%5B480p%5D.ia.mp4
-
 
 
 
